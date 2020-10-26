@@ -1,6 +1,6 @@
 ## Character & Description
 
-![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](konik s pozadim.png)
+![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](konik.png)
 
 *&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
 
