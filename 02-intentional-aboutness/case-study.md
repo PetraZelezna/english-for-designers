@@ -18,5 +18,6 @@ During the design process I created multiple materials for later use such as pro
 ## Result
 In my opinion, the client chose the design with the most contrast out of several design options, all of which reflected and contained their CI. The client can now use my work in many forms as I have explained earlier. It is not just a facebook add, but I can be similarly used in e-mails, banners, headers, etc. I think our work paid off because we`ve managed to capture the core elements of the company and we were able to reflect that into the final design. 
 ![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Frame-2.png)
-![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Frame-2.png) ![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Desktop-2.png)
+![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Frame-1.png) 
+![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Desktop-2.png)
 ![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](Frame-1.png)
