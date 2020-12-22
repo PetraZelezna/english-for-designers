@@ -1,7 +1,7 @@
 # Petra Železná
-#### Product photographer and graphic designer
-I was born in Czech Republic and have been always occupied by art and creative thoughts. Even though my designer path started in my mid teens, till then I have been interested in painting, drawing, creative writing. I have spent my childhood with camera and I still enjoy time shooting, especially product photography. In my free time you may find me reading or at the barn where I spend most of my free time taking care of horses and also giving lessons.
-My design style is meant to be clear, informative but also eye catching and esthetically pleasing.
+## Product Photographer and Graphic Designer
+I was born in Czech Republic and have been always occupied by art and creative thoughts. Even though my designer path started in my mid-teens, untill then I have been interested in painting, drawing, creative writing. I have spent my childhood with a camera and I still enjoy shooting, especially product photography. In my free time you may find me reading or at the barn where I spend most of my free time taking care of horses and also giving lessons.
+My design style is clear, informative but also eye-catching and esthetically pleasing.
 ## Education
 ### Secondary Education:
 (2018-2021) **University of Creative Communication (UCC)**, Prague 4
