@@ -1,7 +1,7 @@
 # Petra Železná
 
 - [About](02-intentional-aboutness/about)
-- [Experience](03-curriculum-vitae/cv-jgagne)
+- [Experience](03-curriculum-vitae/curriculum-vitae)
 
 ## Work
 
