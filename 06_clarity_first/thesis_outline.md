@@ -2,7 +2,7 @@
 
 My thesis is about the corporate identity of a newly created jewelry brand. It describes the way how to design a visual identity and establish a new brand on the market.
 
-## Mind Map
+**[Mind map](https://github.com/PetraZelezna/english-for-designers/blob/main/06_clarity_first/mind_map.png)**
 # Voice & Tone
 
 **Voice:** personal, human, creative, and inspirational.
