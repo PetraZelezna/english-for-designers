@@ -6,6 +6,7 @@ The thesis of my aper is about redesigning and uniting corporate identity of a s
 # Voice & Tone
 
 **Voice:** oficial, personal, inovative and creative.
+
 **Tone:** Formal and academic, open.
 
 # Outline
