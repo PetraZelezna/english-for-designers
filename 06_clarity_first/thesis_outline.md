@@ -1,34 +1,32 @@
-# Corporate Identity For a New Jewelry Brand
+# Corporate Identity For a Architectural Company
 
-My thesis is about the corporate identity of a newly created jewelry brand. It describes the way how to design a visual identity and establish a new brand on the market.
+The thesis of my aper is about redesigning and uniting corporate identity of a small company. The company has been on the market for around 8 years but haven't developed strong and easy to recognise design, which we are going to try to change withc creating new design manual.
 
 **[Mind map](https://github.com/PetraZelezna/english-for-designers/blob/main/06_clarity_first/mind_map.png)**
 # Voice & Tone
 
-**Voice:** personal, human, creative, and inspirational.
-**Tone:** Formal (academic), but friendly.
+**Voice:** oficial, personal, inovative and creative.
+**Tone:** Formal and academic, open.
 
 # Outline
+1. Creating united visual identity.
+2. Making marketing strategies for social media.
+3. Finding how to catch attention with adds.
+4. Coworking with client.
+5. Finding new ideas for future
 
-Establishing a new brand on the market.
-Creating whole visual identity from scratch.
-Cooperating with a very creative owner.
-Creating an appropriate logotype.
-Creating whole communication for a new brand.
-Keywords
+# Keywords
 
-# Brand identity
+### Coprorate identity
+Important bones that we are going to build up a brand on.
+### Design manual
+Manual that sets up rules which needst to be followed.
+### Marketing and targeting clients
+How the company behaves on Facebook and Instagram etc.
+### Comunication
+All the ways the company talks with clients and potentional clients.
+### Final product
+The final product itself, it's form, visual and content.
 
-The collection of all elements that a company creates to portray the right image to its consumer
-Visual identity
-The visible elements of brand identity, like logo or typography.
-Marketing communication
-Combination od different elements used to communicate with the customer.
-Target audience
-Specific group of people you want to target with your brand communication.
+## References
 
-# References
-
-VYSEKALOVÁ, Jitka, MIKEŠ, Jiří. Image a firemní identita. Praha: Grada publishing, 2009, ISBN 978-80-247-6730-7.
-VACHUDA, Tomáš. Vstup do světa logotvorby. Knihy.cz, 2016. s. 7. ISBN 978-80-88061-52-6.
-Corporate identity as an image building tool
