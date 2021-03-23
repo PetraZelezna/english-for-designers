@@ -17,15 +17,15 @@ The thesis of my aper is about redesigning and uniting corporate identity of a s
 
 # Keywords
 
-### Coprorate identity
+#### Coprorate identity
 Important bones that we are going to build up a brand on.
-### Design manual
+#### Design manual
 Manual that sets up rules which needst to be followed.
-### Marketing and targeting clients
+#### Marketing and targeting clients
 How the company behaves on Facebook and Instagram etc.
-### Comunication
+#### Comunication
 All the ways the company talks with clients and potentional clients.
-### Final product
+#### Final product
 The final product itself, it's form, visual and content.
 
 ## References
